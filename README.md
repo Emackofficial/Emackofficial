@@ -1,6 +1,6 @@
  <div align="center">
 
-# 👋 Hi, I'm Emmanuel
+# 👋 Hi, I'm Emmanuel Aforijuku
 
 ### Data Analyst | SQL | Power BI | Microsoft Excel
 
