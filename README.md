@@ -7,7 +7,7 @@
 **Transforming Data into Insights. Empowering Better Decisions.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-[![SQL](https://img.shields.io/badge/SQL-Data_Analysis-blue?style=for-the-badge&logo=mysql)](#)
+[![SQL](https://img.shields.io/badge/SQL-Data_Analysis-4479A1?style=for-the-badge)](#)
 [![Power BI](https://img.shields.io/badge/Power_BI-Visualization-F2C811?style=for-the-badge&logo=powerbi)](#)
 [![Excel](https://img.shields.io/badge/Excel-Analytics-217346?style=for-the-badge&logo=microsoftexcel)](#)
 
